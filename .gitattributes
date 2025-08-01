@@ -1,0 +1,4 @@
+*.js linguist-language=C++
+*.jsx linguist-language=C++
+*.ts linguist-language=C++
+*.tsx linguist-language=C++
